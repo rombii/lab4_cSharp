@@ -1,0 +1,13 @@
+﻿{
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "IN",
+      "value": "India"
+    },
+    "value": null,
+    "decimal": "0",
+    "date": "2019"
+}
